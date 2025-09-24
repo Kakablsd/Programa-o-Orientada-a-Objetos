@@ -8,3 +8,4 @@ class Celular:
     def mostrar_tudo(marca, modelo):
         print(f"seu aparelho é o {marca} {modelo}")
 
+
