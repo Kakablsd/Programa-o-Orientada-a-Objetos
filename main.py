@@ -1,10 +1,11 @@
-from celular import Celular
+from cachorro import Cachorro
 
-marc = "iPhone"
-model = "11 Pro Max"
+rac = "Pastor Alemão
+idad = "2 anos"
 
-Celular.mostrar_marca(marc)
-Celular.mostrar_modelo(model)
+cach = Cachorro()
+cach.mostrar_raca(rac)
+cach.mostrar_idade(idad)]
+cach.mostrar_raca_idade(rac,idad)
 
-Celular.mostrar_informacoes(marc,model)
 
