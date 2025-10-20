@@ -16,4 +16,5 @@ print(lista1)
 
 #QUESTÃO 5
 lista1.pop(2)
+
 print(lista1)
